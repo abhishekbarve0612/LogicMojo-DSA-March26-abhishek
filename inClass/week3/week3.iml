@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/buildingWithOceanView" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/containerWithMostWater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/countOf1sInBinaryArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/duplicatesInArrayRange" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/findFirstOccurance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/findMisplacedElement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minConferenceRooms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/peakElementInArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/productOtherThanCurrentIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/removeDuplicates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/searchInRotatedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/smallestMissingNonNegative" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

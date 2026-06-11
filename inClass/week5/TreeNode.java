@@ -42,4 +42,49 @@ public class TreeNode {
 
         return root;
     }
+
+    public void printInOrder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        printInOrder(root.left);
+        System.out.print(root.val + " ");
+        printInOrder(root.right);
+    }
+
+    public void printPreOrder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        System.out.print(root.val + " ");
+        printPreOrder(root.left);
+        printPreOrder(root.right);
+    }
+
+    public void printPostOrder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        printPostOrder(root.left);
+        printPostOrder(root.right);
+        System.out.print(root.val + " ");
+    }
+
+    public void printLevelOrder(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        Queue<TreeNode> q = new ArrayDeque<>();
+        q.offer(root);
+        while (!q.isEmpty()) {
+            TreeNode node = q.poll();
+            System.out.print(node.val + " ");
+            if (node.left != null) {
+                q.offer(node.left);
+            }
+            if (node.right != null) {
+                q.offer(node.right);
+            }
+        }
+    }
 }

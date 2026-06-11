@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1089" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/283" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/905" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/922" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/977" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/remove-element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/revesere-string" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

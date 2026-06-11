@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/arrange-negatives-and-positives" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/buy-and-sell-stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/buy-and-sell-stocks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/longest-subarray-even-odd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/majority-element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/max-product-subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/max-sum-subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/merge-sorted-arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minimum-platform-need" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sort-zero-one-two" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/subarray-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/subarray-sum-of-zeroes-and-ones" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

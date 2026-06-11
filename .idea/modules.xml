@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/classAssignments/classAssignments.iml" filepath="$PROJECT_DIR$/classAssignments/classAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfPractice/basics/classics/classics.iml" filepath="$PROJECT_DIR$/selfPractice/basics/classics/classics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa.iml" filepath="$PROJECT_DIR$/dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfPractice/basics/palindrome-and-strings/palindrome-and-strings.iml" filepath="$PROJECT_DIR$/selfPractice/basics/palindrome-and-strings/palindrome-and-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfPractice/basics/sortedArrayPair/sortedArrayPair.iml" filepath="$PROJECT_DIR$/selfPractice/basics/sortedArrayPair/sortedArrayPair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfPractice/basics/two-pointers/two-pointers.iml" filepath="$PROJECT_DIR$/selfPractice/basics/two-pointers/two-pointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inClass/week1/week1.iml" filepath="$PROJECT_DIR$/inClass/week1/week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inClass/week2/week2.iml" filepath="$PROJECT_DIR$/inClass/week2/week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inClass/week3/week3.iml" filepath="$PROJECT_DIR$/inClass/week3/week3.iml" />
+    </modules>
+  </component>
+</project>
