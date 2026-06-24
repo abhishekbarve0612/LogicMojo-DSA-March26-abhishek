@@ -1,4 +1,4 @@
-package inClass.week6.areTwoTreesMirror;
+package inClass.week6BinaryTree.areTwoTreesMirror;
 
 import inClass.week5.TreeNode;
 

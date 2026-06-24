@@ -9,7 +9,7 @@ Output: "Path does not Exist"
 
 */
 
-package inClass.week6.doesRootToLeafPathExist;
+package inClass.week6BinaryTree.doesRootToLeafPathExist;
 
 import inClass.week5.TreeNode;
 

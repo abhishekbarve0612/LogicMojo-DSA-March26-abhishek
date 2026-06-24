@@ -20,7 +20,7 @@ Constraints:
 1 <= node->data <= 105
  */
 
-package inClass.week6.diagonalTraversalOfBinaryTree;
+package inClass.week6BinaryTree.diagonalTraversalOfBinaryTree;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -62,7 +62,7 @@ public class Solution {
             if (node.right != null) {
                 q.offer(new NodeInfo(node.right, currLevel));
             }
-        }o
+        }
 
         for (ArrayList<Integer> list : map.values()) {
             ans.add(list);

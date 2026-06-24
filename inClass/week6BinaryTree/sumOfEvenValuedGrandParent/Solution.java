@@ -11,7 +11,7 @@ Output: 18
 Explanation: The red nodes are the nodes with even-value grandparent while the blue nodes are the even-value grandparents.
 
  */
-package inClass.week6.sumOfEvenValuedGrandParent;
+package inClass.week6BinaryTree.sumOfEvenValuedGrandParent;
 
 import inClass.week5.TreeNode;
 

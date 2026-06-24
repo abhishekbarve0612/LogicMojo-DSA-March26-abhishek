@@ -12,7 +12,7 @@ Therefore, sum = 495 + 491 + 40 = 1026.
 
  */
 
-package inClass.week6.sumOfRootToLeafNumbers;
+package inClass.week6BinaryTree.sumOfRootToLeafNumbers;
 
 import inClass.week5.TreeNode;
 

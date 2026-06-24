@@ -9,7 +9,7 @@ Output: 15
 
  */
 
-package inClass.week6.deepestLevelSum;
+package inClass.week6BinaryTree.deepestLevelSum;
 
 import inClass.week5.TreeNode;
 
