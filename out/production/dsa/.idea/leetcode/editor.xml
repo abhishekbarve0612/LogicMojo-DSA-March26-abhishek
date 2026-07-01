@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[179]Largest Number.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/doc/content/[179]Largest Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com179" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[179]Largest Number.java" />
+              <option name="titleSlug" value="largest-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[189]Rotate Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/doc/content/[189]Rotate Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com189" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[189]Rotate Array.java" />
+              <option name="titleSlug" value="rotate-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/doc/content/[26]Remove Duplicates from Sorted Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com26" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[26]Remove Duplicates from Sorted Array.java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[283]Move Zeroes.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/doc/content/[283]Move Zeroes.md" />
+              <option name="frontendQuestionId" value="leetcode.com283" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[283]Move Zeroes.java" />
+              <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[485]Max Consecutive Ones.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/doc/content/[485]Max Consecutive Ones.md" />
+              <option name="frontendQuestionId" value="leetcode.com485" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$USER_HOME$/IdeaProjects/dsa-practice/src/leetcode/editor/en/[485]Max Consecutive Ones.java" />
+              <option name="titleSlug" value="max-consecutive-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
